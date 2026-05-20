@@ -1,0 +1,6 @@
+2026-05-14 10:08:37 [http-nio-8081-exec-2] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
+2026-05-14 10:08:37 [http-nio-8081-exec-2] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
+2026-05-14 10:08:39 [http-nio-8081-exec-2] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 1522 ms
+2026-05-14 10:11:17 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
+2026-05-14 10:11:17 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
+2026-05-14 10:11:17 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 422 ms

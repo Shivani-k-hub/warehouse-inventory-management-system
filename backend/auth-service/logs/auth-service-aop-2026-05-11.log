@@ -1,0 +1,20 @@
+2026-05-11 01:32:19 [main] ERROR c.w.auth.aspect.LoggingAspect - ==> EXCEPTION IN: login() → ERROR: Test error
+2026-05-11 01:32:19 [main] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: AuthController.login()
+2026-05-11 01:32:19 [main] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 0 ms
+2026-05-11 01:32:19 [main] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: AuthService.login()
+2026-05-11 01:43:18 [main] ERROR c.w.auth.aspect.LoggingAspect - ==> EXCEPTION IN: login() → ERROR: Test error
+2026-05-11 01:43:18 [main] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: AuthController.login()
+2026-05-11 01:43:18 [main] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 1 ms
+2026-05-11 01:43:18 [main] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: AuthService.login()
+2026-05-11 02:02:11 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
+2026-05-11 02:02:11 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
+2026-05-11 02:02:13 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 2236 ms
+2026-05-11 02:07:27 [http-nio-8081-exec-3] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
+2026-05-11 02:07:27 [http-nio-8081-exec-3] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
+2026-05-11 02:07:27 [http-nio-8081-exec-3] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 301 ms
+2026-05-11 10:14:35 [http-nio-8081-exec-2] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
+2026-05-11 10:14:35 [http-nio-8081-exec-2] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
+2026-05-11 10:14:37 [http-nio-8081-exec-2] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 1130 ms
+2026-05-11 11:21:15 [http-nio-8081-exec-2] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
+2026-05-11 11:21:15 [http-nio-8081-exec-2] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
+2026-05-11 11:21:16 [http-nio-8081-exec-2] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 930 ms

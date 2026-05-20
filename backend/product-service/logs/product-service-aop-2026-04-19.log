@@ -1,0 +1,6 @@
+2026-04-19 23:27:42 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-04-19 23:27:42 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-04-19 23:27:44 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 1687 ms
+2026-04-19 23:28:07 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-04-19 23:28:07 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-04-19 23:28:07 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 99 ms

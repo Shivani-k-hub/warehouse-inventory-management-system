@@ -1,0 +1,4 @@
+2026-04-27 11:07:06 [main] ERROR c.w.auth.aspect.LoggingAspect - ==> EXCEPTION IN: login() → ERROR: Test error
+2026-04-27 11:07:06 [main] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: AuthController.login()
+2026-04-27 11:07:06 [main] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 0 ms
+2026-04-27 11:07:06 [main] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: AuthService.login()

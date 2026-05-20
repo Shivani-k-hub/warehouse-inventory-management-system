@@ -1,0 +1,153 @@
+2026-05-01 01:17:49 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:17:49 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:17:52 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 2968 ms
+2026-05-01 01:18:03 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:18:03 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:18:03 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 23 ms
+2026-05-01 01:18:20 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.reduceQuantity()
+2026-05-01 01:18:20 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.reduceQuantity()
+2026-05-01 01:18:20 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: reduceQuantity() COMPLETED IN: 272 ms
+2026-05-01 01:18:22 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:18:22 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:18:22 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 48 ms
+2026-05-01 01:18:25 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:18:25 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:18:26 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 34 ms
+2026-05-01 01:18:28 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:18:28 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:18:28 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 48 ms
+2026-05-01 01:18:38 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:18:38 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:18:38 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 65 ms
+2026-05-01 01:18:50 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:18:50 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:18:50 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 19 ms
+2026-05-01 01:19:35 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:19:35 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:19:35 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 122 ms
+2026-05-01 01:19:42 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:19:42 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:19:42 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 13 ms
+2026-05-01 01:19:45 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:19:45 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:19:45 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 12 ms
+2026-05-01 01:19:47 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:19:47 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:19:47 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 29 ms
+2026-05-01 01:19:48 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:19:48 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:19:48 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 14 ms
+2026-05-01 01:20:00 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:20:00 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:20:00 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 42 ms
+2026-05-01 01:20:56 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:20:57 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:20:57 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 301 ms
+2026-05-01 01:21:15 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:21:15 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:21:15 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 85 ms
+2026-05-01 01:21:31 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:21:31 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:21:31 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 106 ms
+2026-05-01 01:21:55 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:21:55 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:21:55 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 200 ms
+2026-05-01 01:22:20 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:22:20 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:22:21 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 90 ms
+2026-05-01 01:24:03 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:24:03 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:24:03 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 351 ms
+2026-05-01 01:27:35 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:27:35 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:27:35 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 177 ms
+2026-05-01 01:29:01 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:29:01 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:29:01 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 65 ms
+2026-05-01 01:29:14 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:29:14 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:29:15 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 308 ms
+2026-05-01 01:29:31 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:29:32 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:29:32 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 112 ms
+2026-05-01 01:29:54 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 01:29:54 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 01:29:54 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 53 ms
+2026-05-01 20:19:39 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 20:19:39 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 20:19:42 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 2209 ms
+2026-05-01 20:19:47 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 20:19:47 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 20:19:47 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 12 ms
+2026-05-01 20:44:31 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 20:44:31 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 20:44:33 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 1538 ms
+2026-05-01 20:59:14 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 20:59:14 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 20:59:16 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 1641 ms
+2026-05-01 21:01:44 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.NotificationController.getNotifications()
+2026-05-01 21:01:44 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:01:45 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 553 ms
+2026-05-01 21:04:17 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 21:04:17 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.NotificationController.getNotifications()
+2026-05-01 21:04:17 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:04:17 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:04:19 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 1786 ms
+2026-05-01 21:04:19 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 1786 ms
+2026-05-01 21:04:25 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.NotificationController.getNotifications()
+2026-05-01 21:04:25 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:04:25 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 21:04:25 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:04:25 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 17 ms
+2026-05-01 21:04:25 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 17 ms
+2026-05-01 21:04:43 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.NotificationController.getNotifications()
+2026-05-01 21:04:43 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:04:43 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 9 ms
+2026-05-01 21:04:55 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.NotificationController.getNotifications()
+2026-05-01 21:04:55 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:04:55 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 15 ms
+2026-05-01 21:05:13 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.NotificationController.getNotifications()
+2026-05-01 21:05:13 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:05:13 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 18 ms
+2026-05-01 21:05:15 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.createProduct()
+2026-05-01 21:05:15 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.createProduct()
+2026-05-01 21:05:15 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: createProduct() COMPLETED IN: 237 ms
+2026-05-01 21:05:15 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 21:05:15 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:05:15 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 6 ms
+2026-05-01 21:05:22 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.createProduct()
+2026-05-01 21:05:22 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.createProduct()
+2026-05-01 21:05:22 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: createProduct() COMPLETED IN: 14 ms
+2026-05-01 21:05:22 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 21:05:22 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:05:22 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 7 ms
+2026-05-01 21:05:25 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.NotificationController.getNotifications()
+2026-05-01 21:05:25 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:05:25 [http-nio-8082-exec-1] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 14 ms
+2026-05-01 21:05:42 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.deleteProduct()
+2026-05-01 21:05:42 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.deleteProduct()
+2026-05-01 21:05:43 [http-nio-8082-exec-4] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: deleteProduct() COMPLETED IN: 83 ms
+2026-05-01 21:05:43 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 21:05:43 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:05:43 [http-nio-8082-exec-3] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 11 ms
+2026-05-01 21:05:43 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.NotificationController.getNotifications()
+2026-05-01 21:05:43 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:05:43 [http-nio-8082-exec-5] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 20 ms
+2026-05-01 21:05:46 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 21:05:46 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:05:46 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.NotificationController.getNotifications()
+2026-05-01 21:05:46 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:05:46 [http-nio-8082-exec-6] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 8 ms
+2026-05-01 21:05:46 [http-nio-8082-exec-7] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 7 ms
+2026-05-01 21:06:02 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 21:06:02 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:06:02 [http-nio-8082-exec-8] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 13 ms
+2026-05-01 21:06:02 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.NotificationController.getNotifications()
+2026-05-01 21:06:02 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:06:02 [http-nio-8082-exec-9] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 7 ms
+2026-05-01 21:06:06 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.ProductController.getAllProducts()
+2026-05-01 21:06:06 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:06:06 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.product.controller.NotificationController.getNotifications()
+2026-05-01 21:06:06 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.product.service.ProductService.getAllProducts()
+2026-05-01 21:06:06 [http-nio-8082-exec-2] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 9 ms
+2026-05-01 21:06:06 [http-nio-8082-exec-10] INFO  c.w.product.aspect.LoggingAspect - ==> METHOD: getAllProducts() COMPLETED IN: 11 ms

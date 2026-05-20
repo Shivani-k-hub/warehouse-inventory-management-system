@@ -1,0 +1,21 @@
+2026-04-23 00:42:23 [http-nio-8081-exec-8] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
+2026-04-23 00:42:23 [http-nio-8081-exec-8] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
+2026-04-23 00:42:25 [http-nio-8081-exec-8] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 1089 ms
+2026-04-23 00:48:35 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.register()
+2026-04-23 00:48:35 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.register()
+2026-04-23 00:48:36 [http-nio-8081-exec-1] ERROR c.w.auth.aspect.LoggingAspect - ==> EXCEPTION IN: register() → ERROR: Username already exists!
+2026-04-23 00:49:20 [http-nio-8081-exec-2] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
+2026-04-23 00:49:20 [http-nio-8081-exec-2] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
+2026-04-23 00:49:20 [http-nio-8081-exec-2] ERROR c.w.auth.aspect.LoggingAspect - ==> EXCEPTION IN: login() → ERROR: Bad credentials
+2026-04-23 00:51:02 [http-nio-8081-exec-3] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.register()
+2026-04-23 00:51:02 [http-nio-8081-exec-3] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.register()
+2026-04-23 00:51:03 [http-nio-8081-exec-3] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: register() COMPLETED IN: 983 ms
+2026-04-23 00:51:14 [http-nio-8081-exec-4] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
+2026-04-23 00:51:14 [http-nio-8081-exec-4] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
+2026-04-23 00:51:15 [http-nio-8081-exec-4] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 548 ms
+2026-04-23 00:53:47 [http-nio-8081-exec-6] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
+2026-04-23 00:53:47 [http-nio-8081-exec-6] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
+2026-04-23 00:53:47 [http-nio-8081-exec-6] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 366 ms
+2026-04-23 00:59:39 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
+2026-04-23 00:59:39 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
+2026-04-23 00:59:40 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 1283 ms

@@ -1,0 +1,33 @@
+2026-05-11 02:02:18 [http-nio-8083-exec-1] INFO  c.w.warehouse.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.warehouse.controller.WarehouseController.getAllWarehouses()
+2026-05-11 02:02:18 [http-nio-8083-exec-1] INFO  c.w.warehouse.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.warehouse.service.WarehouseService.getAllWarehouses()
+2026-05-11 02:02:19 [http-nio-8083-exec-1] INFO  c.w.warehouse.aspect.LoggingAspect - ==> METHOD: getAllWarehouses() COMPLETED IN: 1319 ms
+2026-05-11 02:02:26 [http-nio-8083-exec-2] INFO  c.w.warehouse.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.warehouse.controller.WarehouseController.getAllWarehouses()
+2026-05-11 02:02:26 [http-nio-8083-exec-2] INFO  c.w.warehouse.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.warehouse.service.WarehouseService.getAllWarehouses()
+2026-05-11 02:02:26 [http-nio-8083-exec-2] INFO  c.w.warehouse.aspect.LoggingAspect - ==> METHOD: getAllWarehouses() COMPLETED IN: 10 ms
+2026-05-11 02:02:29 [http-nio-8083-exec-3] INFO  c.w.warehouse.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.warehouse.controller.WarehouseController.getAllWarehouses()
+2026-05-11 02:02:29 [http-nio-8083-exec-3] INFO  c.w.warehouse.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.warehouse.service.WarehouseService.getAllWarehouses()
+2026-05-11 02:02:29 [http-nio-8083-exec-3] INFO  c.w.warehouse.aspect.LoggingAspect - ==> METHOD: getAllWarehouses() COMPLETED IN: 9 ms
+2026-05-11 02:02:36 [http-nio-8083-exec-4] INFO  c.w.warehouse.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.warehouse.controller.WarehouseController.getAllWarehouses()
+2026-05-11 02:02:36 [http-nio-8083-exec-4] INFO  c.w.warehouse.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.warehouse.service.WarehouseService.getAllWarehouses()
+2026-05-11 02:02:36 [http-nio-8083-exec-4] INFO  c.w.warehouse.aspect.LoggingAspect - ==> METHOD: getAllWarehouses() COMPLETED IN: 31 ms
+2026-05-11 02:07:28 [http-nio-8083-exec-7] INFO  c.w.warehouse.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.warehouse.controller.WarehouseController.getAllWarehouses()
+2026-05-11 02:07:28 [http-nio-8083-exec-7] INFO  c.w.warehouse.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.warehouse.service.WarehouseService.getAllWarehouses()
+2026-05-11 02:07:28 [http-nio-8083-exec-7] INFO  c.w.warehouse.aspect.LoggingAspect - ==> METHOD: getAllWarehouses() COMPLETED IN: 122 ms
+2026-05-11 02:07:35 [http-nio-8083-exec-6] INFO  c.w.warehouse.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.warehouse.controller.WarehouseController.getAllWarehouses()
+2026-05-11 02:07:35 [http-nio-8083-exec-6] INFO  c.w.warehouse.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.warehouse.service.WarehouseService.getAllWarehouses()
+2026-05-11 02:07:35 [http-nio-8083-exec-6] INFO  c.w.warehouse.aspect.LoggingAspect - ==> METHOD: getAllWarehouses() COMPLETED IN: 9 ms
+2026-05-11 02:07:38 [http-nio-8083-exec-8] INFO  c.w.warehouse.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.warehouse.controller.WarehouseController.getAllWarehouses()
+2026-05-11 02:07:38 [http-nio-8083-exec-8] INFO  c.w.warehouse.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.warehouse.service.WarehouseService.getAllWarehouses()
+2026-05-11 02:07:38 [http-nio-8083-exec-8] INFO  c.w.warehouse.aspect.LoggingAspect - ==> METHOD: getAllWarehouses() COMPLETED IN: 17 ms
+2026-05-11 10:14:40 [http-nio-8083-exec-3] INFO  c.w.warehouse.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.warehouse.controller.WarehouseController.getAllWarehouses()
+2026-05-11 10:14:40 [http-nio-8083-exec-3] INFO  c.w.warehouse.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.warehouse.service.WarehouseService.getAllWarehouses()
+2026-05-11 10:14:41 [http-nio-8083-exec-3] INFO  c.w.warehouse.aspect.LoggingAspect - ==> METHOD: getAllWarehouses() COMPLETED IN: 1372 ms
+2026-05-11 10:14:48 [http-nio-8083-exec-9] INFO  c.w.warehouse.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.warehouse.controller.WarehouseController.getAllWarehouses()
+2026-05-11 10:14:48 [http-nio-8083-exec-9] INFO  c.w.warehouse.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.warehouse.service.WarehouseService.getAllWarehouses()
+2026-05-11 10:14:48 [http-nio-8083-exec-9] INFO  c.w.warehouse.aspect.LoggingAspect - ==> METHOD: getAllWarehouses() COMPLETED IN: 16 ms
+2026-05-11 10:14:52 [http-nio-8083-exec-10] INFO  c.w.warehouse.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.warehouse.controller.WarehouseController.getAllWarehouses()
+2026-05-11 10:14:52 [http-nio-8083-exec-10] INFO  c.w.warehouse.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.warehouse.service.WarehouseService.getAllWarehouses()
+2026-05-11 10:14:52 [http-nio-8083-exec-10] INFO  c.w.warehouse.aspect.LoggingAspect - ==> METHOD: getAllWarehouses() COMPLETED IN: 22 ms
+2026-05-11 11:21:19 [http-nio-8083-exec-2] INFO  c.w.warehouse.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.warehouse.controller.WarehouseController.getAllWarehouses()
+2026-05-11 11:21:19 [http-nio-8083-exec-2] INFO  c.w.warehouse.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.warehouse.service.WarehouseService.getAllWarehouses()
+2026-05-11 11:21:21 [http-nio-8083-exec-2] INFO  c.w.warehouse.aspect.LoggingAspect - ==> METHOD: getAllWarehouses() COMPLETED IN: 2268 ms

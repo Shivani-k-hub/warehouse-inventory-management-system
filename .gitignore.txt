@@ -1,0 +1,20 @@
+# Angular
+frontend/node_modules/
+frontend/dist/
+
+# Spring
+backend/target/
+
+# Eclipse
+backend/.metadata/
+.metadata/
+.project
+.classpath
+.settings/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

@@ -1,0 +1,144 @@
+2026-05-10 12:08:50 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:08:50 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:08:51 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 1106 ms
+2026-05-10 12:11:42 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:11:42 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:11:42 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 81 ms
+2026-05-10 12:12:11 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.createEmployee()
+2026-05-10 12:12:11 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.createEmployee()
+2026-05-10 12:12:11 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: createEmployee() COMPLETED IN: 159 ms
+2026-05-10 12:12:14 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:12:14 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:12:14 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 39 ms
+2026-05-10 12:12:50 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:12:50 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:12:50 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 19 ms
+2026-05-10 12:13:35 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:13:35 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:13:35 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 40 ms
+2026-05-10 12:15:04 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:15:04 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:15:04 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 53 ms
+2026-05-10 12:15:27 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:15:27 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:15:27 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 38 ms
+2026-05-10 12:15:46 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:15:46 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:15:46 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 13 ms
+2026-05-10 12:17:41 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:17:41 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:17:41 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 80 ms
+2026-05-10 12:18:24 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:18:24 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:18:24 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 125 ms
+2026-05-10 12:19:07 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:19:07 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:19:07 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 141 ms
+2026-05-10 12:19:38 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:19:38 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:19:38 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 61 ms
+2026-05-10 12:20:08 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:20:08 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:20:08 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 73 ms
+2026-05-10 12:29:59 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 12:29:59 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 12:29:59 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 183 ms
+2026-05-10 15:24:08 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 15:24:08 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 15:24:11 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 2908 ms
+2026-05-10 15:24:24 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 15:24:24 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 15:24:24 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 25 ms
+2026-05-10 22:06:58 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:06:58 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:07:00 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 2387 ms
+2026-05-10 22:12:09 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:12:09 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:12:09 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 84 ms
+2026-05-10 22:12:23 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:12:23 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:12:23 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 21 ms
+2026-05-10 22:12:28 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:12:28 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:12:28 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 11 ms
+2026-05-10 22:12:59 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.createEmployee()
+2026-05-10 22:12:59 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.createEmployee()
+2026-05-10 22:12:59 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: createEmployee() COMPLETED IN: 258 ms
+2026-05-10 22:13:05 [http-nio-8084-exec-7] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:13:05 [http-nio-8084-exec-7] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:13:05 [http-nio-8084-exec-7] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 13 ms
+2026-05-10 22:13:29 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:13:29 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:13:29 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 22 ms
+2026-05-10 22:13:45 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:13:45 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:13:45 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 26 ms
+2026-05-10 22:30:55 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:30:55 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:30:57 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 1996 ms
+2026-05-10 22:34:24 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:34:24 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:34:25 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 540 ms
+2026-05-10 22:45:16 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:45:16 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:45:16 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 300 ms
+2026-05-10 22:47:02 [http-nio-8084-exec-7] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:47:02 [http-nio-8084-exec-7] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:47:02 [http-nio-8084-exec-7] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 14 ms
+2026-05-10 22:47:35 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.createEmployee()
+2026-05-10 22:47:35 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.createEmployee()
+2026-05-10 22:47:35 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: createEmployee() COMPLETED IN: 160 ms
+2026-05-10 22:47:35 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:47:35 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:47:35 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 13 ms
+2026-05-10 22:47:38 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:47:38 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:47:38 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 11 ms
+2026-05-10 22:48:04 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:48:04 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:48:04 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 23 ms
+2026-05-10 22:48:15 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:48:15 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:48:15 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 22 ms
+2026-05-10 22:49:09 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:49:09 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:49:09 [http-nio-8084-exec-3] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 96 ms
+2026-05-10 22:51:04 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:51:04 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:51:04 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 10 ms
+2026-05-10 22:53:48 [http-nio-8084-exec-7] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:53:48 [http-nio-8084-exec-7] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:53:48 [http-nio-8084-exec-7] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 210 ms
+2026-05-10 22:53:56 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:53:56 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:53:56 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 15 ms
+2026-05-10 22:54:42 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:54:42 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:54:42 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 14 ms
+2026-05-10 22:55:34 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:55:34 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:55:34 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 0 ms
+2026-05-10 22:55:47 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:55:47 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:55:47 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 15 ms
+2026-05-10 22:56:07 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:56:07 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:56:07 [http-nio-8084-exec-2] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 0 ms
+2026-05-10 22:57:43 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:57:43 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:57:43 [http-nio-8084-exec-5] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 45 ms
+2026-05-10 22:58:00 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:58:00 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:58:00 [http-nio-8084-exec-10] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 12 ms
+2026-05-10 22:58:10 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 22:58:10 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 22:58:10 [http-nio-8084-exec-4] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 11 ms
+2026-05-10 23:00:01 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 23:00:01 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 23:00:01 [http-nio-8084-exec-9] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 12 ms
+2026-05-10 23:00:39 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 23:00:39 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 23:00:39 [http-nio-8084-exec-8] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 11 ms
+2026-05-10 23:00:46 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
+2026-05-10 23:00:46 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
+2026-05-10 23:00:46 [http-nio-8084-exec-6] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 24 ms

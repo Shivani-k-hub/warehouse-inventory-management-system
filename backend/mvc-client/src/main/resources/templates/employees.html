@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Employees - Warehouse System</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma,
+                         Geneva, Verdana, sans-serif;
+            background: #f0f2f5;
+        }
+        .navbar {
+            background: linear-gradient(
+                135deg, #1a1a2e, #16213e);
+            padding: 0 30px;
+            height: 65px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.3);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .navbar-brand {
+            color: white;
+            font-size: 20px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .nav-links { display: flex; gap: 5px; }
+        .nav-link {
+            color: rgba(255,255,255,0.8);
+            text-decoration: none;
+            padding: 8px 16px;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.2s;
+        }
+        .nav-link:hover {
+            background: rgba(255,255,255,0.15);
+            color: white;
+        }
+        .nav-link.logout {
+            background: rgba(231,76,60,0.2);
+            color: #ff6b6b;
+        }
+        .nav-link.logout:hover {
+            background: #e74c3c;
+            color: white;
+        }
+        .main-content {
+            padding: 30px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        .page-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+        }
+        .page-header h1 {
+            font-size: 26px;
+            font-weight: 700;
+            color: #1a1a2e;
+        }
+        .btn-primary {
+            background: linear-gradient(
+                135deg, #667eea, #764ba2);
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px
+                rgba(102,126,234,0.4);
+        }
+        .table-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.08);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        thead tr { background: #f8f9ff; }
+        th {
+            padding: 12px 15px;
+            text-align: left;
+            font-size: 12px;
+            font-weight: 700;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        td {
+            padding: 15px;
+            font-size: 14px;
+            border-bottom: 1px solid #f0f2f5;
+            color: #444;
+        }
+        tr:last-child td { border-bottom: none; }
+        tr:hover td { background: #f8f9ff; }
+        .role-badge {
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .role-ADMIN {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        .role-MANAGER {
+            background: #cce5ff;
+            color: #004085;
+        }
+        .role-WORKER {
+            background: #d4edda;
+            color: #155724;
+        }
+        .avatar {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background: linear-gradient(
+                135deg, #667eea, #764ba2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: 700;
+            font-size: 14px;
+        }
+        .emp-info {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .btn-edit {
+            background: #fff3cd;
+            color: #856404;
+            padding: 6px 14px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            text-decoration: none;
+            margin-right: 5px;
+            transition: all 0.2s;
+        }
+        .btn-edit:hover {
+            background: #f39c12;
+            color: white;
+        }
+        .btn-delete {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 6px 14px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+        .btn-delete:hover {
+            background: #e74c3c;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-brand">
+            <span>🏭</span>
+            <span>Warehouse System</span>
+        </div>
+        <div class="nav-links">
+            <a class="nav-link"
+               th:href="@{/dashboard(
+                   token=${token},
+                   username=${username},
+                   role=${role})}">
+                📊 Dashboard
+            </a>
+            <a class="nav-link"
+               th:href="@{/warehouses(
+                   token=${token},
+                   username=${username},
+                   role=${role})}">
+                🏭 Warehouses
+            </a>
+            <a class="nav-link"
+               th:href="@{/products(
+                   token=${token},
+                   username=${username},
+                   role=${role})}">
+                📦 Products
+            </a>
+            <a class="nav-link logout"
+               href="/logout">🚪 Logout</a>
+        </div>
+    </nav>
+
+    <div class="main-content">
+        <div class="page-header">
+            <h1>👷 Employees</h1>
+            <a class="btn-primary"
+               th:if="${role=='ADMIN'}"
+               th:href="@{/employees/add(
+                   token=${token},
+                   username=${username},
+                   role=${role})}">
+                + Add Employee
+            </a>
+        </div>
+
+        <div class="table-card">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Employee</th>
+                        <th>Role</th>
+                        <th>Phone</th>
+                        <th>City</th>
+                        <th>Gender</th>
+                        <th th:if="${role=='ADMIN'}">
+                            Actions
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr th:each="e : ${employees}">
+                        <td>
+                            <div class="emp-info">
+                                <div class="avatar"
+                                     th:text="${#strings.substring(e.empName,0,1)}">
+                                </div>
+                                <strong th:text="${e.empName}">
+                                </strong>
+                            </div>
+                        </td>
+                        <td>
+                            <span class="role-badge"
+                                  th:classappend="'role-'+${e.empRole}"
+                                  th:text="${e.empRole}">
+                            </span>
+                        </td>
+                        <td th:text="${e.empPhone}">
+                        </td>
+                        <td th:text="${e.empCity}">
+                        </td>
+                        <td th:text="${e.empGender}">
+                        </td>
+                        <td th:if="${role=='ADMIN'}">
+                            <a class="btn-edit"
+                               th:href="@{/employees/edit/{id}(
+                                   id=${e.empId},
+                                   token=${token},
+                                   username=${username},
+                                   role=${role})}">
+                                ✏️ Edit
+                            </a>
+                            <a class="btn-delete"
+                               th:href="@{/employees/delete/{id}(
+                                   id=${e.empId},
+                                   token=${token},
+                                   username=${username},
+                                   role=${role})}">
+                                🗑️ Delete
+                            </a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
