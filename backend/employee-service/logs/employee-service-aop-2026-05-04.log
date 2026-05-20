@@ -1,3 +1,0 @@
-2026-05-04 10:54:40 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.employee.controller.EmployeeController.getAllEmployees()
-2026-05-04 10:54:40 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.employee.service.EmployeeService.getAllEmployees()
-2026-05-04 10:54:45 [http-nio-8084-exec-1] INFO  c.w.employee.aspect.LoggingAspect - ==> METHOD: getAllEmployees() COMPLETED IN: 4243 ms

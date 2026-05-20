@@ -1,9 +1,0 @@
-2026-05-02 09:46:12 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
-2026-05-02 09:46:12 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
-2026-05-02 09:46:13 [http-nio-8081-exec-1] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 1133 ms
-2026-05-02 09:48:28 [http-nio-8081-exec-3] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
-2026-05-02 09:48:28 [http-nio-8081-exec-3] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
-2026-05-02 09:48:28 [http-nio-8081-exec-3] ERROR c.w.auth.aspect.LoggingAspect - ==> EXCEPTION IN: login() → ERROR: Bad credentials
-2026-05-02 09:49:26 [http-nio-8081-exec-4] INFO  c.w.auth.aspect.LoggingAspect - ==> API REQUEST: com.warehouse.auth.controller.AuthController.login()
-2026-05-02 09:49:26 [http-nio-8081-exec-4] INFO  c.w.auth.aspect.LoggingAspect - ==> SERVICE METHOD CALLED: com.warehouse.auth.service.AuthService.login()
-2026-05-02 09:49:26 [http-nio-8081-exec-4] INFO  c.w.auth.aspect.LoggingAspect - ==> METHOD: login() COMPLETED IN: 251 ms
